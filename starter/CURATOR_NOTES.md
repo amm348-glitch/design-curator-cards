@@ -1,57 +1,119 @@
-# CURATOR_NOTES.md — Research Thinking
+## Bauhaus (1919–1933)
 
-> Fill this out BEFORE you start prompting. This is your thinking space.
-> "Explore → Pin → Promote": explore broadly, pin the best ideas here, then promote them to AGENTS.md.
+- What I already think this movement is:
+  - A modernist school focused on functional design and unifying art with industry
 
----
+- Key figures or schools I keep seeing:
+  - Walter Gropius
+  - László Moholy-Nagy
+  - Paul Klee
+  - Wassily Kandinsky
 
-## What I Think I Know
+- Vocabulary terms that appear repeatedly:
+  - form follows function
+  - Vorkurs
+  - geometric abstraction
+  - sans-serif typography
+  - functionalism
 
-- *What do I already know (or think I know) about these movements?*
--
--
--
+- Museums / archives I should trust for verification:
+  - MoMA
+  - Bauhaus Archive (Berlin)
 
-## What I'm Unsure About
+- Core principles:
+  - Unity of art, craft, and technology
+  - Design as a rational, problem-solving discipline
 
-- *What am I fuzzy on? What might I be wrong about?*
--
--
--
+- What Bauhaus rejected:
+  - Ornamentation
+  - Historic revival styles
 
-## Vocabulary I Need
+## Swiss Style / International Typographic Style (1950s–1970s)
 
-- *What domain terms do I need to learn before I can write with authority?*
--
--
--
+- What I already think this movement is:
+  - A modernist design approach focused on clarity, objectivity, and systematic visual communication
 
----
+- Designers commonly associated with it:
+  - Josef Müller-Brockmann
+  - Max Bill
+  - Armin Hofmann
 
-## Pinned: Concept Map (from AI)
+- Vocabulary terms that seem central:
+  - grid system
+  - typographic hierarchy
+  - asymmetrical layout
+  - objectivity
+  - neutrality
+  - sans-serif typography
 
-> Run the concept map prompt from the Prompt Pack. Paste the best output here.
+- Museums / archives I should trust for verification:
+  - MoMA
+  - Cooper Hewitt Smithsonian Design Museum
 
-*[Paste concept map here]*
+- Inherited from Bauhaus:
+  - Functionalism and clarity
+  - Sans-serif typography
+  - Rational, systematic design thinking
 
-## Pinned: Vocabulary List (from AI)
+- Core principles:
+  - Objectivity and neutrality
+  - Clarity, legibility, and order
+  - Design as a transparent communication tool
 
-> Run the controlled vocabulary prompt. Select the terms that are actually useful. Discard the rest.
+- Methods and characteristics:
+  - Mathematical grid systems
+  - Asymmetrical layouts
+  - Strong typographic hierarchy
+  - Use of photography instead of illustration
+  - Typefaces such as Helvetica and Akzidenz-Grotesk
 
-*[Paste selected vocabulary here]*
+- What Swiss Style formalized:
+  - Turned Bauhaus ideals into strict, repeatable systems
+  - Reduced personal expression in favor of universal communication
 
-## Pinned: Confusions & Boundaries (from AI)
+## Reaction to Swiss Style: New Wave Typography (1970s–1980s)
 
-> Run the confusions prompt. Pin the distinctions that surprised you or corrected your assumptions.
+- Why I chose New Wave instead of Grunge:
+  - New Wave directly reacts to Swiss Style by breaking its rules while still understanding them
 
-*[Paste confusion/boundary notes here]*
+- What I already think this movement is:
+  - A typographic movement that challenged Swiss rigidity through experimentation and expressive layouts
 
----
+- Designers commonly associated with it:
+  - Wolfgang Weingart
+  - April Greiman
 
-## My Decisions
+- Vocabulary terms that appear repeatedly:
+  - broken grid
+  - typographic experimentation
+  - layering
+  - expressive typography
+  - postmodern typography
 
-- **Card 3 movement choice:** *[New Wave / Grunge — pick one and explain why]*
-- **Expert for critique:** *[Name — explain why this expert for this card]*
-- **Anything I changed my mind about after research:**
-  -
-  -
+- Museums / archives I should trust for verification:
+  - MoMA
+  - Design Museum London
+
+- Inherited from Swiss Style:
+  - Professional typographic discipline
+  - Knowledge of grid systems and structure
+  - Modernist foundations
+
+- Rejected aspects:
+  - Rigid grid systems
+  - Absolute objectivity and neutrality
+  - Uniform, impersonal layouts
+
+- Core principles:
+  - Experimentation and individual expression
+  - Breaking and bending established rules
+  - Typography as an expressive visual element
+
+- Methods and characteristics:
+  - Broken or manipulated grids
+  - Layering, varied spacing, and scale
+  - Mixed typefaces and unconventional compositions
+
+- Historical position:
+  - Reaction against Swiss Style’s strictness rather than a rejection of modernism
+  - Transitional movement toward postmodern graphic design
